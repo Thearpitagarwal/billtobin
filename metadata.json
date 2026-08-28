@@ -1,0 +1,6 @@
+{
+  "name": "BillToBin",
+  "description": "Offline warehouse receipt scanner and bin location routing app with on-device OCR and fuzzy inventory matching",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

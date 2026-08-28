@@ -1,0 +1,290 @@
+[
+  {
+    "itemName": "Parle-G 50g",
+    "aliases": "Parle G, ParleG, Parle-G 50g, Parle Biscuit, Glucose Biscuits",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "3",
+        "row": "A",
+        "barrack": "3",
+        "shelf": "B",
+        "locationCode": "3 A 3 B",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "3",
+        "row": "A",
+        "barrack": "3",
+        "shelf": "C",
+        "locationCode": "3 A 3 C",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "Detergent 1kg",
+    "aliases": "Detergent Powder, Ariel 1kg, Surf Excel 1kg, Washing Powder 1kg, Detergent 1k",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "1",
+        "row": "C",
+        "barrack": "12",
+        "shelf": "A",
+        "locationCode": "1 C 12 A",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "1",
+        "row": "C",
+        "barrack": "12",
+        "shelf": "B",
+        "locationCode": "1 C 12 B",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "Industrial Soap 5L",
+    "aliases": "Ind Soap 5L, Soap Can 5L, Liquid Soap 5L, Industrial Soap, Cleanser 5L",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "5",
+        "row": "D",
+        "barrack": "01",
+        "shelf": "F",
+        "locationCode": "5 D 01 F",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "5",
+        "row": "D",
+        "barrack": "01",
+        "shelf": "G",
+        "locationCode": "5 D 01 G",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "Bleach Cartons",
+    "aliases": "Bleach, Bleaching Liquid, Sodium Hypochlorite, Bleach 500ml, Chlorine Bleach",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "2",
+        "row": "A",
+        "barrack": "99",
+        "shelf": "Y",
+        "locationCode": "2 A 99 Y",
+        "priority": 2
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "2",
+        "row": "A",
+        "barrack": "99",
+        "shelf": "Z",
+        "locationCode": "2 A 99 Z",
+        "priority": 1
+      }
+    ]
+  },
+  {
+    "itemName": "Apple iPhone 15 128GB",
+    "aliases": "iPhone 15, iPhone15, Apple iPhone, IP15 128GB, iPhone 15 Black",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "2",
+        "row": "B",
+        "barrack": "04",
+        "shelf": "A",
+        "locationCode": "2 B 04 A",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "2",
+        "row": "B",
+        "barrack": "04",
+        "shelf": "C",
+        "locationCode": "2 B 04 C",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "Samsung Galaxy S23",
+    "aliases": "Galaxy S23, Samsung S23, S23 256GB, SM-S911, Galaxy Phone",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "2",
+        "row": "B",
+        "barrack": "05",
+        "shelf": "B",
+        "locationCode": "2 B 05 B",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "2",
+        "row": "B",
+        "barrack": "05",
+        "shelf": "D",
+        "locationCode": "2 B 05 D",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "Sony WH-1000XM5",
+    "aliases": "WH1000XM5, Sony Headphones, Sony XM5, WH-1000, ANC Headphones",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "2",
+        "row": "C",
+        "barrack": "08",
+        "shelf": "A",
+        "locationCode": "2 C 08 A",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "2",
+        "row": "C",
+        "barrack": "08",
+        "shelf": "B",
+        "locationCode": "2 C 08 B",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "Nike Air Force 1",
+    "aliases": "Air Force 1, AF1 White, Nike AF1, Nike Shoes, Sneaker AF1",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "4",
+        "row": "A",
+        "barrack": "15",
+        "shelf": "C",
+        "locationCode": "4 A 15 C",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "4",
+        "row": "A",
+        "barrack": "15",
+        "shelf": "D",
+        "locationCode": "4 A 15 D",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "Logitech MX Master 3",
+    "aliases": "MX Master 3, MX Master, Logitech Mouse, MX Master 3S, Wireless Mouse",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "2",
+        "row": "C",
+        "barrack": "02",
+        "shelf": "A",
+        "locationCode": "2 C 02 A",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "2",
+        "row": "C",
+        "barrack": "02",
+        "shelf": "B",
+        "locationCode": "2 C 02 B",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "N95 Face Masks Box",
+    "aliases": "N95 Masks, Face Mask N95, Protective Mask, N95 Respirator, 3M Masks",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "1",
+        "row": "A",
+        "barrack": "02",
+        "shelf": "B",
+        "locationCode": "1 A 02 B",
+        "priority": 2
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "1",
+        "row": "A",
+        "barrack": "02",
+        "shelf": "A",
+        "locationCode": "1 A 02 A",
+        "priority": 1
+      }
+    ]
+  },
+  {
+    "itemName": "Steel Hex Bolts M8",
+    "aliases": "Hex Bolts M8, M8 Bolts, Steel Bolts, Bolts M8x50, Fasteners M8",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "1",
+        "row": "D",
+        "barrack": "22",
+        "shelf": "E",
+        "locationCode": "1 D 22 E",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "1",
+        "row": "D",
+        "barrack": "22",
+        "shelf": "F",
+        "locationCode": "1 D 22 F",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "itemName": "LED Tube Light 20W",
+    "aliases": "LED Tube 20W, Tube Light 20W, LED Light 4ft, 20W Tube, T8 LED",
+    "locations": [
+      {
+        "packageType": "LOOSE",
+        "floor": "3",
+        "row": "B",
+        "barrack": "11",
+        "shelf": "A",
+        "locationCode": "3 B 11 A",
+        "priority": 1
+      },
+      {
+        "packageType": "CARTON",
+        "floor": "3",
+        "row": "B",
+        "barrack": "11",
+        "shelf": "B",
+        "locationCode": "3 B 11 B",
+        "priority": 2
+      }
+    ]
+  }
+]
